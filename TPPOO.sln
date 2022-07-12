@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VISTA", "VISTA\VISTA.csproj", "{EAEFE40B-45B3-4197-9BAA-269302794AE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MODELO", "MODELO\MODELO.csproj", "{7A66BBBB-1EC3-46EF-9240-7CE260136021}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CONTROLADORA", "CONTROLADORA\CONTROLADORA.csproj", "{F68B1E9C-3EC2-41F6-8B99-15F8AB144D7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAEFE40B-45B3-4197-9BAA-269302794AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAEFE40B-45B3-4197-9BAA-269302794AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAEFE40B-45B3-4197-9BAA-269302794AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAEFE40B-45B3-4197-9BAA-269302794AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A66BBBB-1EC3-46EF-9240-7CE260136021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A66BBBB-1EC3-46EF-9240-7CE260136021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A66BBBB-1EC3-46EF-9240-7CE260136021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A66BBBB-1EC3-46EF-9240-7CE260136021}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F68B1E9C-3EC2-41F6-8B99-15F8AB144D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68B1E9C-3EC2-41F6-8B99-15F8AB144D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68B1E9C-3EC2-41F6-8B99-15F8AB144D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68B1E9C-3EC2-41F6-8B99-15F8AB144D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28F0B23B-4543-4E6F-B4D2-82019A262069}
+	EndGlobalSection
+EndGlobal
