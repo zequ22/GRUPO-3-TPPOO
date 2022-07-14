@@ -1,0 +1,6 @@
+C:\Users\alder\Escritorio\TPPOO\TPPOO\MODELO\bin\Debug\MODELO.dll
+C:\Users\alder\Escritorio\TPPOO\TPPOO\MODELO\bin\Debug\MODELO.pdb
+C:\Users\alder\Escritorio\TPPOO\TPPOO\MODELO\obj\Debug\MODELO.csproj.AssemblyReference.cache
+C:\Users\alder\Escritorio\TPPOO\TPPOO\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+C:\Users\alder\Escritorio\TPPOO\TPPOO\MODELO\obj\Debug\MODELO.dll
+C:\Users\alder\Escritorio\TPPOO\TPPOO\MODELO\obj\Debug\MODELO.pdb

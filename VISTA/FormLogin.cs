@@ -13,7 +13,7 @@ namespace VISTA
     public partial class FormLogin : Form
     {
 
-        public FormLogin(MODELO.Miembro parMIEMBRO, MODELO.ACCION parACCION)
+        public FormLogin()
         {
             InitializeComponent();
 
